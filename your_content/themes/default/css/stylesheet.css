@@ -9,14 +9,14 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
  @import url('/Our-Fantasy-Comic-Series/your_content/fonts/Faelynn.ttf');
 body {
     font-family: 'PT Sans', sans-serif;  /* The font of all the text on all pages */
-    color: black;  /* The color of the font of most of the text on your website */
-    background-color: white;  /* The color of the background behind everything */
+    color: rgb(255, 204, 0);  /* The color of the font of most of the text on your website */
+    background-color: rgb(44, 44, 44);  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
                                                        or replace with your own image to tile across your background. */
 }
 
 a {
-    color: rgb(128, 0, 41);  /* The color of the hyperlinks */
+    color: #890002;  /* The color of the hyperlinks */
 }
 
 div#container {
@@ -26,7 +26,7 @@ div#container {
 }
 
 div#links-bar {
-    background-color: indianred;  /* The background color of your links bar */
+    background-color: #890002;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
