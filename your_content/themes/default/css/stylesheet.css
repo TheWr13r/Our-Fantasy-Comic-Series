@@ -9,7 +9,7 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
  @import url('/Our-Fantasy-Comic-Series/your_content/fonts/Faelyn-Regular.ttf');
  body {
     font-family: 'Faelyn', sans-serif;  /* The font of all the text on all pages */
-    font-size: 20px;
+    font-size: 34px;
     color: rgb(255, 204, 0);  /* The color of the font of most of the text on your website */
     background-color: rgb(0, 0, 0);  /* The color of the background behind everything */
     background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
